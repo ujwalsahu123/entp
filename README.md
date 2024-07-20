@@ -23,3 +23,14 @@ If raising funds, prepare a pitch deck, and approach investors, crowdfunding pla
 Development and Launch:
 Develop your platform with a focus on usability, performance, and scalability.
 Test thoroughly before launching to ensure a smooth user experience.
+
+idea 
+market research 
+value proposition 
+buisness plan/idea
+pitch deck
+cap table 
+investment deck
+go to market stratergy
+summary p&l
+buisness stertergy
